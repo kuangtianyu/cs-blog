@@ -2,7 +2,7 @@
 
 <!-- <br>
 
-<img width="220px" src="https://gitee.com/kuangty/blogImage/raw/master/img/可爱女孩子 蓝色眼睛 猫耳 兽耳 è 尾巴 毛绒玩具4k动漫壁纸_彼岸图网.jpg">
+<img width="220px" src="">
 
 
 <div style = "font-weight: 100; font-size: 1.2rem; 
