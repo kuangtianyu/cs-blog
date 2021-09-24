@@ -12,5 +12,5 @@
     * [🔨 工具](README?id=🔨-工具)
     * [📞 后记](README?id=📞-后记)
 * [公众号](README?id=📞-后记)
-* [看板](https://blog.csdn.net/qq_46153765?spm=1000.2115.3001.5343)
+* [看板](https://www.cnblogs.com/kuangty/)
 
