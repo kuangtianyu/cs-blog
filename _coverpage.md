@@ -31,7 +31,7 @@
     color: rgb(60, 60, 60); text-align: center;
     text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
     line-height: 1.2;">
-    后端面试必备知识点
+    帅宇的知识博客
 </div>
 
 <br>
