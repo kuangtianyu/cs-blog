@@ -11,7 +11,6 @@
     line-height: 1.2;">
     进击的 Javaer，努力奔跑在全栈的路上 🏃‍
 </div>
-
 <br>
 <br>
 
@@ -19,19 +18,16 @@
 ![](https://svg.hamm.cn/gitee.svg?user=veal98&project=CS-Wiki&type=fork&color=5d71ca&radius=3) &nbsp;&nbsp;&nbsp;
 ![]( https://svg.hamm.cn/badge.svg?key=author&value=小牛肉&color=6cb54e&radius=3)
 
-
 [<i class="fa fa-github-alt fa-1x"></i> Gitee](https://gitee.com/veal98/CS-Wiki)
 [<i class="fa fa-spinner fa-spin"></i> 开始阅读](README.md)
 
 ![color](#333333) -->
 
-
 <!-- light -->
 
 <br>
 
-<img width="280px" src="https://gitee.com/kuangty/blogImage/raw/master/img/可爱女孩子 蓝色眼睛 猫耳 兽耳 è 尾巴 毛绒玩具4k动漫壁纸_彼岸图网.jpg
-">
+<img width="280px" src="https://gitee.com/kuangty/blogImage/raw/master/img/Snipaste_2021-09-24_10-29-01.png">
 
 <div style = "font-weight: 100; font-size: 1.2rem; 
     color: rgb(60, 60, 60); text-align: center;
@@ -47,7 +43,6 @@
 [![fork](https://gitee.com/veal98/CS-Wiki/badge/fork.svg?theme=dark)](https://gitee.com/veal98/CS-Wiki/members)
 [![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
-
 
 [Gitee](https://gitee.com/veal98/CS-Wiki)
 [开始阅读](README.md)
