@@ -32,13 +32,7 @@
 <br>
 <br>
 
-[![GitHub issues](https://img.shields.io/github/issues/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/stargazers)
-
-[![GitHub license](https://img.shields.io/github/license/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/issues)    [![GitHub forks](https://img.shields.io/github/forks/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/network)    [![GitHub stars](https://img.shields.io/github/stars/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/stargazers)    [![GitHub license](https://img.shields.io/github/license/kuangtianyu/cs-blog)](https://github.com/kuangtianyu/cs-blog/blob/master/LICENSE)
 
 [Gitee](https://gitee.com/kuangty)
 [开始阅读](README.md)
