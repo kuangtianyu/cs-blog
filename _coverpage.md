@@ -21,8 +21,6 @@
 [<i class="fa fa-github-alt fa-1x"></i> Gitee](https://gitee.com/veal98/CS-Wiki)
 [<i class="fa fa-spinner fa-spin"></i> 开始阅读](README.md)
 
-![color](#333333) -->
-
 <!-- light -->
 
 <br>
@@ -44,9 +42,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
 
-[Gitee](https://gitee.com/veal98/CS-Wiki)
+[Gitee](https://gitee.com/kuangty)
 [开始阅读](README.md)
 
 <!-- background image -->
 
-![](https://www.recoluan.com/assets/img/bg.2cfdbb33.svg)
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/bg.svg)
