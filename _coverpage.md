@@ -21,7 +21,7 @@
 
 <br>
 
-<img width="280px" src="https://gitee.com/kuangty/blogImage/raw/master/img/Snipaste_2021-09-24_10-29-01.png">
+<img width="280px" src="https://gitee.com/kuangty/blogImage/raw/master/img/wushuaiyu%20.png">
 
 <div style = "font-weight: 100; font-size: 1.2rem; 
     color: rgb(60, 60, 60); text-align: center;

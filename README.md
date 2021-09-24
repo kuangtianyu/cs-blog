@@ -25,8 +25,9 @@
 <br>
 
 <p align="center">
-    <img width="320px" src="https://gitee.com/kuangty/blogImage/raw/master/img/Snipaste_2021-09-24_10-29-01.png" >
+    <img width="320px" src="https://gitee.com/kuangty/blogImage/raw/master/img/wushuaiyu%20.png" >
 </p>
+
 
 
 
